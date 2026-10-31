@@ -3,7 +3,7 @@
 
 Nama : R Gilang Setyo Nugroho
 NIM  : 2409020019
-Link demo: https://github.com/muhammadrafly17062005-creator/arvr-prak-2409020044.git
+Link demo: https://github.com/gilangsetyo/arvr-prak-2409020019
 
 Project ini berisi scene WebXR perkenalan diri menggunakan A-Frame 1.7.1.
 
